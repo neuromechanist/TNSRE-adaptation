@@ -1,11 +1,11 @@
-PWD d:/Dropbox/Apps/Overleaf/TNSRE adaptation
+PWD c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation
 INPUT c:/texlive/2020/texmf.cnf
 INPUT c:/texlive/2020/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT d:/Dropbox/Apps/Overleaf/TNSRE adaptation/generic-color.tex
-OUTPUT d:/Dropbox/Apps/Overleaf/TNSRE adaptation/generic-color.log
-INPUT d:/Dropbox/Apps/Overleaf/TNSRE adaptation/ieeecolor.cls
-INPUT d:/Dropbox/Apps/Overleaf/TNSRE adaptation/ieeecolor.cls
+INPUT c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation/generic-color.tex
+OUTPUT c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation/generic-color.log
+INPUT c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation/ieeecolor.cls
+INPUT c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation/ieeecolor.cls
 INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/color.sty
 INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/color.sty
 INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
@@ -55,8 +55,8 @@ INPUT c:/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmbi7t.tfm
-INPUT d:/Dropbox/Apps/Overleaf/TNSRE adaptation/generic.sty
-INPUT d:/Dropbox/Apps/Overleaf/TNSRE adaptation/generic.sty
+INPUT c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation/generic.sty
+INPUT c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation/generic.sty
 INPUT c:/texlive/2020/texmf-dist/tex/latex/cite/cite.sty
 INPUT c:/texlive/2020/texmf-dist/tex/latex/cite/cite.sty
 INPUT c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
@@ -142,9 +142,9 @@ INPUT c:/texlive/2020/texmf-dist/tex/latex/psnfss/t1ptm.fd
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmr8t.tfm
 INPUT c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 INPUT c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
-INPUT d:/Dropbox/Apps/Overleaf/TNSRE adaptation/generic-color.aux
-INPUT d:/Dropbox/Apps/Overleaf/TNSRE adaptation/generic-color.aux
-OUTPUT d:/Dropbox/Apps/Overleaf/TNSRE adaptation/generic-color.aux
+INPUT c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation/generic-color.aux
+INPUT c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation/generic-color.aux
+OUTPUT c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation/generic-color.aux
 INPUT c:/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT c:/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT c:/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
@@ -198,14 +198,14 @@ INPUT c:/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty
 INPUT c:/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty
 INPUT c:/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 INPUT c:/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
-INPUT d:/Dropbox/Apps/Overleaf/TNSRE adaptation/generic-color.out
-INPUT d:/Dropbox/Apps/Overleaf/TNSRE adaptation/generic-color.out
-INPUT d:/Dropbox/Apps/Overleaf/TNSRE adaptation/generic-color.out
-INPUT d:/Dropbox/Apps/Overleaf/TNSRE adaptation/generic-color.out
-OUTPUT d:/Dropbox/Apps/Overleaf/TNSRE adaptation/generic-color.pdf
-INPUT d:/Dropbox/Apps/Overleaf/TNSRE adaptation/generic-color.out
-INPUT d:/Dropbox/Apps/Overleaf/TNSRE adaptation/generic-color.out
-OUTPUT d:/Dropbox/Apps/Overleaf/TNSRE adaptation/generic-color.out
+INPUT c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation/generic-color.out
+INPUT c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation/generic-color.out
+INPUT c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation/generic-color.out
+INPUT c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation/generic-color.out
+OUTPUT c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation/generic-color.pdf
+INPUT c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation/generic-color.out
+INPUT c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation/generic-color.out
+OUTPUT c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation/generic-color.out
 INPUT c:/texlive/2020/texmf-dist/tex/latex/psnfss/t1phv.fd
 INPUT c:/texlive/2020/texmf-dist/tex/latex/psnfss/t1phv.fd
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/adobe/helvetic/phvr8t.tfm
@@ -241,15 +241,15 @@ INPUT c:/texlive/2020/texmf-dist/fonts/tfm/adobe/helvetic/phvbo8t.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/adobe/helvetic/phvrc8t.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmb8t.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmb8t.tfm
-INPUT d:/Dropbox/Apps/Overleaf/TNSRE adaptation/LOGO-generic-web.eps
-INPUT d:/Dropbox/Apps/Overleaf/TNSRE adaptation/LOGO-generic-web.eps
-INPUT d:/Dropbox/Apps/Overleaf/TNSRE adaptation/LOGO-generic-web.eps
-INPUT d:/Dropbox/Apps/Overleaf/TNSRE adaptation/LOGO-generic-web-eps-converted-to.pdf
-INPUT d:/Dropbox/Apps/Overleaf/TNSRE adaptation/LOGO-generic-web-eps-converted-to.pdf
-INPUT d:/Dropbox/Apps/Overleaf/TNSRE adaptation/LOGO-generic-web.eps
-INPUT d:/Dropbox/Apps/Overleaf/TNSRE adaptation/LOGO-generic-web-eps-converted-to.pdf
-INPUT d:/Dropbox/Apps/Overleaf/TNSRE adaptation/LOGO-generic-web-eps-converted-to.pdf
-INPUT d:/Dropbox/Apps/Overleaf/TNSRE adaptation/LOGO-generic-web-eps-converted-to.pdf
+INPUT c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation/LOGO-generic-web.eps
+INPUT c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation/LOGO-generic-web.eps
+INPUT c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation/LOGO-generic-web.eps
+INPUT c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation/LOGO-generic-web-eps-converted-to.pdf
+INPUT c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation/LOGO-generic-web-eps-converted-to.pdf
+INPUT c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation/LOGO-generic-web.eps
+INPUT c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation/LOGO-generic-web-eps-converted-to.pdf
+INPUT c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation/LOGO-generic-web-eps-converted-to.pdf
+INPUT c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation/LOGO-generic-web-eps-converted-to.pdf
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
@@ -281,17 +281,17 @@ INPUT c:/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/vf/adobe/times/ptmr8t.vf
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/vf/adobe/helvetic/phvr8t.vf
-INPUT d:/Dropbox/Apps/Overleaf/TNSRE adaptation/figures/01_device-protocol_errorMetric.jpg
-INPUT d:/Dropbox/Apps/Overleaf/TNSRE adaptation/figures/01_device-protocol_errorMetric.jpg
-INPUT d:/Dropbox/Apps/Overleaf/TNSRE adaptation/figures/01_device-protocol_errorMetric.jpg
+INPUT c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation/figures/01_device-protocol_errorMetric.jpg
+INPUT c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation/figures/01_device-protocol_errorMetric.jpg
+INPUT c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation/figures/01_device-protocol_errorMetric.jpg
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/adobe/helvetic/phvrc8t.tfm
 INPUT c:/texlive/2020/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 INPUT c:/texlive/2020/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmr8c.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/adobe/helvetic/phvro8t.tfm
-INPUT d:/Dropbox/Apps/Overleaf/TNSRE adaptation/figures/02_error_metrics.jpg
-INPUT d:/Dropbox/Apps/Overleaf/TNSRE adaptation/figures/02_error_metrics.jpg
-INPUT d:/Dropbox/Apps/Overleaf/TNSRE adaptation/figures/02_error_metrics.jpg
+INPUT c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation/figures/02_error_metrics.jpg
+INPUT c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation/figures/02_error_metrics.jpg
+INPUT c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation/figures/02_error_metrics.jpg
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/adobe/helvetic/phvr8t.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/adobe/helvetic/phvro8t.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/vf/adobe/times/ptmr8c.vf
@@ -299,32 +299,32 @@ INPUT c:/texlive/2020/texmf-dist/fonts/vf/adobe/helvetic/phvro8t.vf
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/adobe/helvetic/phvro8r.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/vf/adobe/helvetic/phvro8t.vf
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/adobe/helvetic/phvro8r.tfm
-INPUT d:/Dropbox/Apps/Overleaf/TNSRE adaptation/figures/03_EEG workflow.jpg
-INPUT d:/Dropbox/Apps/Overleaf/TNSRE adaptation/figures/03_EEG workflow.jpg
-INPUT d:/Dropbox/Apps/Overleaf/TNSRE adaptation/figures/03_EEG workflow.jpg
+INPUT c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation/figures/03_EEG workflow.jpg
+INPUT c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation/figures/03_EEG workflow.jpg
+INPUT c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation/figures/03_EEG workflow.jpg
 INPUT c:/texlive/2020/texmf-dist/fonts/vf/adobe/times/ptmri8t.vf
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmri8r.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/vf/adobe/times/ptmb8t.vf
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
-INPUT d:/Dropbox/Apps/Overleaf/TNSRE adaptation/figures/04_error-result-r2.jpg
-INPUT d:/Dropbox/Apps/Overleaf/TNSRE adaptation/figures/04_error-result-r2.jpg
-INPUT d:/Dropbox/Apps/Overleaf/TNSRE adaptation/figures/04_error-result-r2.jpg
-INPUT d:/Dropbox/Apps/Overleaf/TNSRE adaptation/figures/05_dipole locations_70p.jpg
-INPUT d:/Dropbox/Apps/Overleaf/TNSRE adaptation/figures/05_dipole locations_70p.jpg
-INPUT d:/Dropbox/Apps/Overleaf/TNSRE adaptation/figures/05_dipole locations_70p.jpg
+INPUT c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation/figures/04_error-result-r2.jpg
+INPUT c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation/figures/04_error-result-r2.jpg
+INPUT c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation/figures/04_error-result-r2.jpg
+INPUT c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation/figures/05_dipole locations_70p.jpg
+INPUT c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation/figures/05_dipole locations_70p.jpg
+INPUT c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation/figures/05_dipole locations_70p.jpg
 INPUT c:/texlive/2020/texmf-dist/fonts/vf/adobe/times/ptmr8t.vf
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
-INPUT d:/Dropbox/Apps/Overleaf/TNSRE adaptation/figures/hyp1and2.jpg
-INPUT d:/Dropbox/Apps/Overleaf/TNSRE adaptation/figures/hyp1and2.jpg
-INPUT d:/Dropbox/Apps/Overleaf/TNSRE adaptation/figures/hyp1and2.jpg
-INPUT d:/Dropbox/Apps/Overleaf/TNSRE adaptation/figures/hyp3 - perturb timing.jpg
-INPUT d:/Dropbox/Apps/Overleaf/TNSRE adaptation/figures/hyp3 - perturb timing.jpg
-INPUT d:/Dropbox/Apps/Overleaf/TNSRE adaptation/figures/hyp3 - perturb timing.jpg
-INPUT d:/Dropbox/Apps/Overleaf/TNSRE adaptation/figures/hyp4- lateraliztion.jpg
-INPUT d:/Dropbox/Apps/Overleaf/TNSRE adaptation/figures/hyp4- lateraliztion.jpg
-INPUT d:/Dropbox/Apps/Overleaf/TNSRE adaptation/figures/hyp4- lateraliztion.jpg
-INPUT d:/Dropbox/Apps/Overleaf/TNSRE adaptation/generic-color.bbl
-INPUT d:/Dropbox/Apps/Overleaf/TNSRE adaptation/generic-color.bbl
+INPUT c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation/figures/hyp1and2.jpg
+INPUT c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation/figures/hyp1and2.jpg
+INPUT c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation/figures/hyp1and2.jpg
+INPUT c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation/figures/hyp3 - perturb timing.jpg
+INPUT c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation/figures/hyp3 - perturb timing.jpg
+INPUT c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation/figures/hyp3 - perturb timing.jpg
+INPUT c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation/figures/hyp4- lateraliztion.jpg
+INPUT c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation/figures/hyp4- lateraliztion.jpg
+INPUT c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation/figures/hyp4- lateraliztion.jpg
+INPUT c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation/generic-color.bbl
+INPUT c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation/generic-color.bbl
 INPUT c:/texlive/2020/texmf-dist/fonts/vf/adobe/times/ptmr8t.vf
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/vf/adobe/times/ptmri8t.vf
@@ -334,9 +334,9 @@ INPUT c:/texlive/2020/texmf-dist/tex/latex/psnfss/t1pcr.fd
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/adobe/courier/pcrr8t.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/vf/adobe/courier/pcrr8t.vf
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/adobe/courier/pcrr8r.tfm
-INPUT d:/Dropbox/Apps/Overleaf/TNSRE adaptation/generic-color.aux
-INPUT d:/Dropbox/Apps/Overleaf/TNSRE adaptation/generic-color.out
-INPUT d:/Dropbox/Apps/Overleaf/TNSRE adaptation/generic-color.out
+INPUT c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation/generic-color.aux
+INPUT c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation/generic-color.out
+INPUT c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation/generic-color.out
 INPUT c:/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc
 INPUT c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb
 INPUT c:/texlive/2020/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb
