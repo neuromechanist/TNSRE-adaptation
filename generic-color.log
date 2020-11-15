@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.24)  26 OCT 2020 13:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.24)  15 NOV 2020 16:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -432,10 +432,10 @@ Package color Info: Redefining color mblue on input line 33.
 LaTeX Font Info:    Font shape `T1/phv/b/it' in size <10> not available
 (Font)              Font shape `T1/phv/b/sl' tried instead on input line 33.
 Package epstopdf Info: Source file: <LOGO-generic-web.eps>
-(epstopdf)                    date: 2020-10-26 13:47:14
+(epstopdf)                    date: 2020-10-26 12:47:14
 (epstopdf)                    size: 98268 bytes
 (epstopdf)             Output file: <LOGO-generic-web-eps-converted-to.pdf>
-(epstopdf)                    date: 2020-10-26 13:47:14
+(epstopdf)                    date: 2020-10-26 12:47:14
 (epstopdf)                    size: 6976 bytes
 (epstopdf)             Command: <repstopdf --outfile=LOGO-generic-web-eps-converted-to.pdf LOGO-generic-web.eps>
 (epstopdf)             \includegraphics on input line 46.
@@ -663,7 +663,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  34i,19n,31p,2003b,451s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb><c:/texlive/2020/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><c:/texlive/2020/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb><c:/texlive/2020/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb><c:/texlive/2020/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb><c:/texlive/2020/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2020/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2020/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation/generic-color.pdf (10 pages, 5033855 bytes).
+Output written on c:/Users/aftab/Documents/_tex-repo/TNSRE-adaptation/generic-color.pdf (10 pages, 5277915 bytes).
 PDF statistics:
  260 PDF objects out of 1000 (max. 8388607)
  226 compressed objects within 3 object streams
